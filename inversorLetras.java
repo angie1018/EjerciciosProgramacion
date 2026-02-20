@@ -1,4 +1,4 @@
-import java.util.Scanner;
+timport java.util.Scanner;
 
 public class inversor {
 
@@ -17,7 +17,7 @@ public class inversor {
             i = i - 1;
         }
 
-        System.out.println("texto invertido: " + invertido);
+        System.out.println("El texto invertido: " + invertido);
 
         sc.close();
     }
